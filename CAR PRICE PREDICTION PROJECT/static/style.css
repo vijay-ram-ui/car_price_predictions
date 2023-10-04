@@ -1,0 +1,67 @@
+body{
+    background-image:url(car.jpeg);
+    background-repeat: no-repeat;
+    background: cover;
+    
+}
+
+.Y{
+    background: size 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+.B{
+    text-align:center;
+}
+
+.C{
+    text-align:center;
+    
+
+}
+
+.D{
+    text-align:center;
+}
+
+.E{
+    text-align:center;
+}
+
+
+.F{
+    text-align:center;
+}
+
+.G{
+    text-align:center;
+}
+
+.M{
+    text-align:center;
+}
+
+.H{
+    text-align:center;
+
+}
+
+.J{
+    text-align:center;
+    
+}
+.predict-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  
+/* Style the video: 100% width and height to cover the entire window */
+
+
+
+
